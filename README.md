@@ -3,7 +3,7 @@ Client-Server Command and Control in python using sockets.
 
 
 (with python installed)
-you can run "python3 server.py" on your machine and "python3 client.py" on the machine you want to control./n
+you can run "python3 server.py" on your machine and "python3 client.py" on the machine you want to control.
 You can send commands and get the responses, encrypt and decrypt files, have an encrypted transmission and create the persistence on the client machine.
 Just write the ip address of the server machine on the client code and select a port on both of them (if you want to communicate on public network you need a port forwarding).
 
